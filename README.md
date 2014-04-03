@@ -1,4 +1,4 @@
-[jQuery](http://jquery.com/) - New Wave JavaScript
+Leon Xu [jQuery](http://jquery.com/) - New Wave JavaScript
 ==================================================
 
 Contribution Guides
